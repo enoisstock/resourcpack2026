@@ -8,7 +8,8 @@ Hier findest du alle Texturen für mein Projekt.
 1. Lade den Ordner als .zip herunter.
 2. Kopiere die .zip in deinen `resourcepacks` Ordner.
 3. Aktiviere es im Spiel.
-4. man muss 2 mal entpacken (:
+4. man muss 2 mal entpacken (:bis zu resourcpack2026-main
+5.WEil die datei 2mal gezippt wurde (:
 
 ## Kanal
 Schaut gerne auf meinem YouTube-Kanal vorbei:
